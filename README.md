@@ -5,6 +5,11 @@ We did arithmetic and logical operations, comparisons and form handling.
 	The == operator compare the meaning and outomaticaly comparing the
 type while === checking the type and the meaning which is more safe.
 
+2. To run any file start the local server php -S localhost:8000 -t lab4
+then to open specific file use the command php lab4/php_file_name or 
+for some other files do lab04/folder_name/php_file_name
+
+3. Inputs and Outputs:
 Output from the first file: 
 sum=13 prod=30 a=15
 14
